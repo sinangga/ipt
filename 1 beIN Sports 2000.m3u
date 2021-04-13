@@ -1,0 +1,61 @@
+﻿#EXTM3U
+#EXTINF:-1,beIN Sports 1 Premium SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/11
+#EXTINF:-1,beIN Sports 2 Premium SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/12
+#EXTINF:-1,beIN Sports 3 Premium SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/13
+#EXTINF:-1,beIN Sports 1 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/14
+#EXTINF:-1,beIN Sports 2 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/15
+#EXTINF:-1,beIN Sports 3 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/16
+#EXTINF:-1,beIN Sports 4 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/17
+#EXTINF:-1,beIN Sports 5 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/18
+#EXTINF:-1,beIN Sports 6 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/19
+#EXTINF:-1,beIN Sports 7 SD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/20
+#EXTINF:-1,beIN Sports 1 Premium HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/144
+#EXTINF:-1,beIN Sports 2 Premium HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/145
+#EXTINF:-1,beIN Sports 3 Premium HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/146
+#EXTINF:-1,beIN Sports 1 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/147
+#EXTINF:-1,beIN Sports 2 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/148
+#EXTINF:-1,beIN Sports 3 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/149
+#EXTINF:-1,beIN Sports 4 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/150
+#EXTINF:-1,beIN Sports 5 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/151
+#EXTINF:-1,beIN Sports 6 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/152
+#EXTINF:-1,beIN Sports 7 HD
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/153
+#EXTINF:-1,beIN Sports 1 Premium Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/21
+#EXTINF:-1,beIN Sports 2 Premium Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/22
+#EXTINF:-1,beIN Sports 3 Premium Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/23
+#EXTINF:-1,beIN Sports 1 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/24
+#EXTINF:-1,beIN Sports 2 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/25
+#EXTINF:-1,beIN Sports 3 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/26
+#EXTINF:-1,beIN Sports 4 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/27
+#EXTINF:-1,beIN Sports 5 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/28
+#EXTINF:-1,beIN Sports 6 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/29
+#EXTINF:-1,beIN Sports 7 Low
+http://209.145.54.100:25461/tm0-0-0live/tm4.xyz/30
