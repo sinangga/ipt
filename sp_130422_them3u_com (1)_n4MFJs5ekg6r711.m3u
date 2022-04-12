@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="description" content="File sharing and storage made easy">
+<meta name="keywords" content="">
+<meta property="og:title" content="File sharing and storage made easy" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="DOWNLOAD M3U" />
+<meta property="og:url" content="https://downloadm3u.com" />
+<meta property="og:image" content="https://downloadm3u.com/images/main/logo.png" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="File sharing and storage made easy">
+<meta name="twitter:title" content="DOWNLOAD M3U — File sharing and storage made easy">
+<meta name="twitter:site" content="https://downloadm3u.com">
+<meta name="csrf-token" content="3J7dA9wEouDKKKFEzyGcYbNaOv1aypDAQndmaI5p">
+<title>DOWNLOAD M3U — Page not found</title>
+<link href="https://downloadm3u.com/images/main/favicon.ico" rel="shortcut icon">
+<link href="https://downloadm3u.com/images/main/favicon.ico" type="image/png" rel="icon" sizes="192x192">
+<link rel="apple-touch-icon" href="https://downloadm3u.com/images/main/favicon.ico" sizes="180x180">
+<link href="https://downloadm3u.com/assets/css/app.css" rel="stylesheet"/>
+   </head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1291130955411536"
+     crossorigin="anonymous"></script>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-1291130955411536"
+     data-ad-slot="7715556498"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+      <body  >
+         <style>
+    :root {
+        --color_1: #206bc4;
+        --color_2: #0e2866;
+        --color_3: #131313;
+    }
+ </style>         <div class="error_pages">
+    <div class="empty">
+        <div class="empty-header">404</div>
+        <p class="empty-title">Oops… You just found an error page</p>
+        <p class="empty-subtitle text-muted">
+          We are sorry but the page you are looking for was not found
+        </p>
+        <div class="empty-action">
+          <a href="https://downloadm3u.com" class="btn btn-primary">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="5" y1="12" x2="19" y2="12"></line><line x1="5" y1="12" x2="11" y2="18"></line><line x1="5" y1="12" x2="11" y2="6"></line></svg>
+            back to home
+          </a>
+        </div>
+      </div>
+</div>
+   <script src="https://downloadm3u.com/assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://downloadm3u.com/assets/libs/jquery/dist/jquery.min.js"></script>
+<script src="https://downloadm3u.com/assets/libs/sweetalert/sweetalert.min.js"></script>
+<script src="https://downloadm3u.com/assets/js/app.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?" async defer></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JLMK2GS5X5"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+   
+   gtag('config', 'G-JLMK2GS5X5');
+</script>
+   </body>
+</html>
